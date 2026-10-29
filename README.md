@@ -19,7 +19,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Base internacional**: Américas, Europa e os registros de Madri, com marcas parecidas, mercado de cada país, mês a mês, e a data até a qual os dados de cada país estão atualizados.
 - **Brasil e exterior conectados**: pedidos de estrangeiros no INPI por país de origem e por via de depósito, e quais escritórios brasileiros trabalham com quais escritórios estrangeiros.
 - **Risco e viabilidade**: colidência classe a classe, classificação de Nice a partir da descrição do negócio e diagnóstico de viabilidade de registro.
-- **Contencioso**: processos judiciais e jurisprudência sobre marcas.
+- **Contencioso em todo o Judiciário**: processos de marcas nos 6 TRFs e nos TJs de praticamente todos os estados, além dos tribunais superiores, com estatísticas por tribunal, e a jurisprudência (acórdãos) do STJ e do STF.
 - **Sua carteira**: vencimentos, eventos, pontos críticos e colidências do último relatório de monitoramento.
 - **Somente leitura**: as 31 ferramentas apenas consultam.
 
@@ -30,6 +30,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - "Qual o risco de colidência da marca Vertice na classe 35?"
 - "Existem marcas parecidas com Vertice na Europa e nos Estados Unidos?"
 - "Quais países mais depositam marcas no Brasil?"
+- "Como o TRF2 e o TJSP tratam ações de nulidade de registro de marca?"
 
 ### Ferramentas
 
@@ -57,7 +58,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **An international database**: the Americas, Europe and the Madrid System registers, with similar marks, each country's market month by month, and the date up to which each country's data is current.
 - **Brazil and abroad, connected**: foreign filings at INPI by country of origin and filing route, and which Brazilian firms work with which foreign firms.
 - **Risk and viability**: class-by-class conflict analysis, Nice classification from a business description and a registration viability diagnosis.
-- **Litigation**: court cases and case law on trademarks.
+- **Litigation across the whole judiciary**: trademark lawsuits from all six federal regional courts (TRFs) and the state courts of justice (TJs) of practically every state, plus the superior courts, with statistics by court, and the case law (rulings) of the STJ and STF.
 - **Your portfolio**: renewals, events, critical items and the conflicts from your latest monitoring report.
 - **Read-only**: all 31 tools only query data.
 
@@ -68,6 +69,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - "What is the conflict risk of the mark Vertice in class 35?"
 - "Are there marks similar to Vertice in Europe and the United States?"
 - "Which countries file the most trademarks in Brazil?"
+- "How do the TRF2 and the TJSP treat lawsuits to annul a trademark registration?"
 
 ### Tools
 
