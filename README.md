@@ -21,7 +21,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Risco e viabilidade**: colidência classe a classe, classificação de Nice a partir da descrição do negócio e diagnóstico de viabilidade de registro.
 - **Contencioso em todo o Judiciário**: processos de marcas nos 6 TRFs e nos TJs de praticamente todos os estados, além dos tribunais superiores, com estatísticas por tribunal, e a jurisprudência (acórdãos) do STJ e do STF.
 - **Sua carteira**: vencimentos, eventos, pontos críticos e colidências do último relatório de monitoramento.
-- **Somente leitura**: as 31 ferramentas apenas consultam.
+- **Somente leitura**: as 32 ferramentas apenas consultam.
 
 ### O que dá para perguntar
 
@@ -34,7 +34,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 
 ### Ferramentas
 
-- **Busca e registro:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`
+- **Busca e registro:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`
 - **Risco e viabilidade:** `analisar_colidencia`, `diagnostico_viabilidade`
 - **Internacional:** `analise_internacional`, `mercado_por_pais`, `atualizacao_por_pais`, `origem_depositos_brasil`, `ranking_procuradores`, `relacoes_internacionais`
 - **Mercado e índice TIQ:** `consultar_indice_tiq`, `valores_de_dimensao`, `ranking_tiq`, `relatorio_de_mercado`
@@ -60,7 +60,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Risk and viability**: class-by-class conflict analysis, Nice classification from a business description and a registration viability diagnosis.
 - **Litigation across the whole judiciary**: trademark lawsuits from all six federal regional courts (TRFs) and the state courts of justice (TJs) of practically every state, plus the superior courts, with statistics by court, and the case law (rulings) of the STJ and STF.
 - **Your portfolio**: renewals, events, critical items and the conflicts from your latest monitoring report.
-- **Read-only**: all 31 tools only query data.
+- **Read-only**: all 32 tools only query data.
 
 ### What you can ask
 
@@ -73,7 +73,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 
 ### Tools
 
-- **Search and registration:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`
+- **Search and registration:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`
 - **Risk and viability:** `analisar_colidencia`, `diagnostico_viabilidade`
 - **International:** `analise_internacional`, `mercado_por_pais`, `atualizacao_por_pais`, `origem_depositos_brasil`, `ranking_procuradores`, `relacoes_internacionais`
 - **Market and TIQ index:** `consultar_indice_tiq`, `valores_de_dimensao`, `ranking_tiq`, `relatorio_de_mercado`
