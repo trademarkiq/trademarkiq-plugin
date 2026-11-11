@@ -20,8 +20,9 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Brasil e exterior conectados**: pedidos de estrangeiros no INPI por país de origem e por via de depósito, e quais escritórios brasileiros trabalham com quais escritórios estrangeiros.
 - **Risco e viabilidade**: colidência classe a classe, classificação de Nice a partir da descrição do negócio e diagnóstico de viabilidade de registro.
 - **Contencioso em todo o Judiciário**: processos de marcas nos 6 TRFs e nos TJs de praticamente todos os estados, além dos tribunais superiores, com estatísticas por tribunal, e a jurisprudência (acórdãos) do STJ e do STF.
-- **Sua carteira**: vencimentos, eventos, pontos críticos e colidências do último relatório de monitoramento.
-- **Somente leitura**: as 50 ferramentas apenas consultam.
+- **Patentes e desenhos industriais**: busca, ficha completa, reivindicações e a carteira de qualquer titular, no Brasil e no exterior.
+- **Sua carteira, inteira**: na conta de Empresa ou de escritório, representantes, clientes, histórico, financeiro, desenhos, contratos, software, conflitos, ameaças, cobertura internacional e processos judiciais, cada um com a sua franquia por plano. Cada conta vê só o que lhe está atribuído.
+- **Somente leitura**: as 53 ferramentas apenas consultam.
 
 ### O que dá para perguntar
 
@@ -30,12 +31,17 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - "Qual o risco de colidência da marca Vertice na classe 35?"
 - "Existem marcas parecidas com Vertice na Europa e nos Estados Unidos?"
 - "Quais países mais depositam marcas no Brasil?"
+- "Que desenhos industriais a Ambev depositou em 2025 e em que classes de Locarno?"
+- "Quais patentes de baterias de lítio foram concedidas no Brasil e quem as depositou?"
+- "Faça um resumo da carteira da minha empresa: marcas, desenhos, software e contratos."
+- "Quais clientes do meu escritório têm marcas vencendo nos próximos 90 dias?"
 - "Como o TRF2 e o TJSP tratam ações de nulidade de registro de marca?"
 
 ### Ferramentas
 
 - **Sua conta:** `minha_conta` (plano, ferramentas disponíveis e consultas restantes hoje, no seu idioma)
 - **Busca e registro:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`
+- **Desenhos industriais:** `buscar_desenhos`, `detalhes_desenho`, `desenhos_titular`
 - **Patentes:** `buscar_patentes`, `detalhes_patente`, `texto_patente`, `patentes_empresa`, `buscar_patentes_internacional`, `patente_internacional` (internacionais no plano Enterprise)
 - **Risco e viabilidade:** `analisar_colidencia`, `diagnostico_viabilidade`
 - **Internacional:** `analise_internacional`, `mercado_por_pais`, `atualizacao_por_pais`, `origem_depositos_brasil`, `ranking_procuradores`, `relacoes_internacionais`
@@ -62,8 +68,9 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Brazil and abroad, connected**: foreign filings at INPI by country of origin and filing route, and which Brazilian firms work with which foreign firms.
 - **Risk and viability**: class-by-class conflict analysis, Nice classification from a business description and a registration viability diagnosis.
 - **Litigation across the whole judiciary**: trademark lawsuits from all six federal regional courts (TRFs) and the state courts of justice (TJs) of practically every state, plus the superior courts, with statistics by court, and the case law (rulings) of the STJ and STF.
-- **Your portfolio**: renewals, events, critical items and the conflicts from your latest monitoring report.
-- **Read-only**: all 50 tools only query data.
+- **Patents and industrial designs**: search, full record, claims and the portfolio of any holder, in Brazil and abroad.
+- **Your whole portfolio**: on a Company or firm account, representatives, clients, history, financial, designs, contracts, software, conflicts, threats, international coverage and court cases, each with its own daily allowance per plan. Each account sees only what is assigned to it.
+- **Read-only**: all 53 tools only query data.
 
 ### What you can ask
 
@@ -72,12 +79,17 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - "What is the conflict risk of the mark Vertice in class 35?"
 - "Are there marks similar to Vertice in Europe and the United States?"
 - "Which countries file the most trademarks in Brazil?"
+- "Which industrial designs did Ambev file in 2025, and in which Locarno classes?"
+- "Which lithium battery patents have been granted in Brazil, and who filed them?"
+- "Summarise my company's portfolio: trademarks, designs, software and contracts."
+- "Which of my firm's clients have marks expiring in the next 90 days?"
 - "How do the TRF2 and the TJSP treat lawsuits to annul a trademark registration?"
 
 ### Tools
 
 - **Your account:** `minha_conta` (plan, available tools and calls left today, in your language)
 - **Search and registration:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`
+- **Industrial designs:** `buscar_desenhos`, `detalhes_desenho`, `desenhos_titular`
 - **Patents:** `buscar_patentes`, `detalhes_patente`, `texto_patente`, `patentes_empresa`, `buscar_patentes_internacional`, `patente_internacional` (international ones on the Enterprise plan)
 - **Risk and viability:** `analisar_colidencia`, `diagnostico_viabilidade`
 - **International:** `analise_internacional`, `mercado_por_pais`, `atualizacao_por_pais`, `origem_depositos_brasil`, `ranking_procuradores`, `relacoes_internacionais`

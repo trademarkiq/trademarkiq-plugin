@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.trademarkiq/trademarkiq",
   "title": "TrademarkIQ",
-  "description": "Marcas e patentes do INPI e do mundo / INPI and worldwide trademarks and patents: search and risk",
+  "description": "Marcas, patentes e desenhos do INPI e do mundo, e a sua carteira inteira, direto no assistente / INPI and worldwide trademarks, patents and designs, plus your whole portfolio, inside your AI assistant",
   "repository": {
     "url": "https://github.com/trademarkiq/trademarkiq-plugin",
     "source": "github"
