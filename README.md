@@ -21,7 +21,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Risco e viabilidade**: colidência classe a classe, classificação de Nice a partir da descrição do negócio e diagnóstico de viabilidade de registro.
 - **Contencioso em todo o Judiciário**: processos de marcas nos 6 TRFs e nos TJs de praticamente todos os estados, além dos tribunais superiores, com estatísticas por tribunal, e a jurisprudência (acórdãos) do STJ e do STF.
 - **Sua carteira**: vencimentos, eventos, pontos críticos e colidências do último relatório de monitoramento.
-- **Somente leitura**: as 39 ferramentas apenas consultam.
+- **Somente leitura**: as 50 ferramentas apenas consultam.
 
 ### O que dá para perguntar
 
@@ -42,6 +42,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Mercado e índice TIQ:** `consultar_indice_tiq`, `valores_de_dimensao`, `ranking_tiq`, `relatorio_de_mercado`
 - **RPI:** `rpi_edicoes`, `rpi_resumo`, `rpi_despachos`
 - **Judicial e jurisprudência:** `buscar_processos_pi`, `processo_pi`, `estatisticas_juris`, `jurisprudencia_pi`
+- **Carteira de Empresa e escritório (a carteira inteira):** `carteira_representantes`, `carteira_clientes`, `carteira_historico`, `carteira_financeiro`, `carteira_desenhos`, `carteira_contratos`, `carteira_software`, `carteira_conflitos`, `carteira_ameacas`, `carteira_internacional`, `carteira_judicial`
 - **Carteira da conta conectada:** `meu_portfolio`, `resumo_portfolio`, `eventos_portfolio`, `criticos_portfolio`, `vencimentos_portfolio`, `colidencias_ultima_rpi`, `contencioso_portfolio`
 
 ### Aviso
@@ -62,7 +63,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Risk and viability**: class-by-class conflict analysis, Nice classification from a business description and a registration viability diagnosis.
 - **Litigation across the whole judiciary**: trademark lawsuits from all six federal regional courts (TRFs) and the state courts of justice (TJs) of practically every state, plus the superior courts, with statistics by court, and the case law (rulings) of the STJ and STF.
 - **Your portfolio**: renewals, events, critical items and the conflicts from your latest monitoring report.
-- **Read-only**: all 39 tools only query data.
+- **Read-only**: all 50 tools only query data.
 
 ### What you can ask
 
@@ -83,6 +84,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Market and TIQ index:** `consultar_indice_tiq`, `valores_de_dimensao`, `ranking_tiq`, `relatorio_de_mercado`
 - **Gazette (RPI):** `rpi_edicoes`, `rpi_resumo`, `rpi_despachos`
 - **Court cases and case law:** `buscar_processos_pi`, `processo_pi`, `estatisticas_juris`, `jurisprudencia_pi`
+- **Company and firm portfolio (the whole portfolio):** `carteira_representantes`, `carteira_clientes`, `carteira_historico`, `carteira_financeiro`, `carteira_desenhos`, `carteira_contratos`, `carteira_software`, `carteira_conflitos`, `carteira_ameacas`, `carteira_internacional`, `carteira_judicial`
 - **Connected account's portfolio:** `meu_portfolio`, `resumo_portfolio`, `eventos_portfolio`, `criticos_portfolio`, `vencimentos_portfolio`, `colidencias_ultima_rpi`, `contencioso_portfolio`
 
 Tool names are in Portuguese; the assistant answers in your language.
