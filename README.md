@@ -147,11 +147,18 @@ The files in this repository (manifests, configuration and documentation) are di
 
 ## Skills de relatório / Report skills
 
-A pasta `skills/` traz duas skills prontas, com o logotipo oficial em `assets/`:
+A pasta `skills/` traz nove skills prontas, com o logotipo oficial em `assets/`:
 
 - `trademarkiq-diagnostico-de-marca`: relatório de diagnóstico de viabilidade de uma marca para cliente, no Brasil ou noutro país (PDF de 3 páginas).
 - `trademarkiq-estudo-de-mercado`: estudo de mercado de marcas em uma página (país, setor, classe, América Latina, escritórios).
+- `trademarkiq-relatorio-de-carteira`: relatório periódico de uma carteira (situação, prazos, despachos recentes, conflitos, contencioso, exterior).
+- `trademarkiq-boletim-da-rpi`: boletim de uma edição da RPI, com o que tocou na carteira e os prazos que começaram a correr.
+- `trademarkiq-dossie-de-titular`: dossiê de propriedade intelectual de uma empresa ou pessoa (marcas, patentes, desenhos, procuradores, litígios, exterior).
+- `trademarkiq-parecer-de-colidencia`: análise comparativa entre duas marcas, com fundamentos para oposição, recurso, nulidade ou convivência.
+- `trademarkiq-painel-do-escritorio`: painel de gestão do escritório (negócio no CRM e carteira no INPI).
+- `trademarkiq-relatorio-de-patentes`: relatório de patentes de uma empresa ou de uma tecnologia.
+- `trademarkiq-orientacao-de-processo`: onde o processo está, o que o despacho significa, o prazo e os caminhos, com base no Manual de Marcas do INPI e na Lei 9.279/1996.
 
 Em assistentes que aceitam skills (por exemplo o Claude), instale a pasta da skill ou o respectivo ZIP. Nos demais, o conector entrega o mesmo conteúdo pela ferramenta `guia_de_relatorio` e o logotipo por `logo_trademarkiq`.
 
-The `skills/` folder ships two ready-made skills, with the official logo in `assets/`: a trademark viability diagnosis report for a client (Brazil or any other country) and a one-page trademark market study. In assistants that support skills (Claude, for example), install the skill folder or its ZIP. Elsewhere, the connector serves the same content through the `guia_de_relatorio` tool and the logo through `logo_trademarkiq`.
+The `skills/` folder ships nine ready-made skills, with the official logo in `assets/`: trademark viability diagnosis, market study, portfolio report, RPI bulletin, holder dossier, comparative analysis of two trademarks, IP firm dashboard, patent report, and case guidance grounded in the INPI Trademark Manual and Lei 9.279/1996. In assistants that support skills (Claude, for example), install the skill folder or its ZIP. Elsewhere, the connector serves the same content through the `guia_de_relatorio` tool and the logo through `logo_trademarkiq`.

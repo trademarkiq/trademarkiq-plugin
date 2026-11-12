@@ -56,7 +56,8 @@ Visual: fundo da página #f4f5f8; cartões brancos com borda #e1e5ee e cantos de
 5. Só afirme data de concessão, países designados ou serviços protegidos que venham do resultado de uma ferramenta. Se a ferramenta não trouxe, diga que não está disponível.
 6. Risco: no Brasil, a viabilidade é a que a ferramenta devolve. Fora do Brasil, a leitura por marca (médio-alto, médio, médio-baixo, baixo) é qualitativa, pela proximidade dos nomes e pela afinidade dos serviços, e o relatório a apresenta assim.
 7. Não explique como as análises são calculadas nem cite fontes internas. Cite o número de cada processo.
-8. Todo relatório leva o aviso: análise de risco com dados públicos, não é parecer jurídico nem garantia; recomenda-se revisão por profissional de propriedade industrial antes do depósito.
+8. Caminhos recomendados no Brasil (depósito, oposição, recurso, nulidade, caducidade da marca anterior, convivência): antes de escrevê-los, chame `manual_e_legislacao` e cite o item do Manual de Marcas do INPI e o artigo da Lei 9.279/1996 que sustentam cada um. Não afirme prazo nem requisito de memória.
+9. Todo relatório leva o aviso: análise de risco com dados públicos, não é parecer jurídico nem garantia; recomenda-se revisão por profissional de propriedade industrial antes do depósito.
 
 ## 5. Construção
 
