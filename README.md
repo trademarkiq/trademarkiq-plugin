@@ -22,7 +22,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Contencioso em todo o Judiciário**: processos de marcas nos 6 TRFs e nos TJs de praticamente todos os estados, além dos tribunais superiores, com estatísticas por tribunal, e a jurisprudência (acórdãos) do STJ e do STF.
 - **Patentes e desenhos industriais**: busca, ficha completa, reivindicações e a carteira de qualquer titular, no Brasil e no exterior.
 - **Sua carteira, inteira**: na conta de Empresa ou de escritório, representantes, clientes, histórico, financeiro, desenhos, contratos, software, conflitos, ameaças, cobertura internacional e processos judiciais, cada um com a sua franquia por plano. Cada conta vê só o que lhe está atribuído.
-- **Somente leitura**: as 53 ferramentas apenas consultam.
+- **Somente leitura**: as 58 ferramentas apenas consultam.
 
 ### O que dá para perguntar
 
@@ -49,6 +49,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **RPI:** `rpi_edicoes`, `rpi_resumo`, `rpi_despachos`
 - **Judicial e jurisprudência:** `buscar_processos_pi`, `processo_pi`, `estatisticas_juris`, `jurisprudencia_pi`
 - **Carteira de Empresa e escritório (a carteira inteira):** `carteira_representantes`, `carteira_clientes`, `carteira_historico`, `carteira_financeiro`, `carteira_desenhos`, `carteira_contratos`, `carteira_software`, `carteira_conflitos`, `carteira_ameacas`, `carteira_internacional`, `carteira_judicial`
+- **Negócio do escritório (CRM ligado à conta):** `crm_resumo`, `crm_funil`, `crm_servicos`, `crm_equipe`, `crm_oportunidades`
 - **Carteira da conta conectada:** `meu_portfolio`, `resumo_portfolio`, `eventos_portfolio`, `criticos_portfolio`, `vencimentos_portfolio`, `colidencias_ultima_rpi`, `contencioso_portfolio`
 
 ### Aviso
@@ -70,7 +71,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Litigation across the whole judiciary**: trademark lawsuits from all six federal regional courts (TRFs) and the state courts of justice (TJs) of practically every state, plus the superior courts, with statistics by court, and the case law (rulings) of the STJ and STF.
 - **Patents and industrial designs**: search, full record, claims and the portfolio of any holder, in Brazil and abroad.
 - **Your whole portfolio**: on a Company or firm account, representatives, clients, history, financial, designs, contracts, software, conflicts, threats, international coverage and court cases, each with its own daily allowance per plan. Each account sees only what is assigned to it.
-- **Read-only**: all 53 tools only query data.
+- **Read-only**: all 58 tools only query data.
 
 ### What you can ask
 
@@ -97,6 +98,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Gazette (RPI):** `rpi_edicoes`, `rpi_resumo`, `rpi_despachos`
 - **Court cases and case law:** `buscar_processos_pi`, `processo_pi`, `estatisticas_juris`, `jurisprudencia_pi`
 - **Company and firm portfolio (the whole portfolio):** `carteira_representantes`, `carteira_clientes`, `carteira_historico`, `carteira_financeiro`, `carteira_desenhos`, `carteira_contratos`, `carteira_software`, `carteira_conflitos`, `carteira_ameacas`, `carteira_internacional`, `carteira_judicial`
+- **Firm business (CRM linked to the account):** `crm_resumo`, `crm_funil`, `crm_servicos`, `crm_equipe`, `crm_oportunidades`
 - **Connected account's portfolio:** `meu_portfolio`, `resumo_portfolio`, `eventos_portfolio`, `criticos_portfolio`, `vencimentos_portfolio`, `colidencias_ultima_rpi`, `contencioso_portfolio`
 
 Tool names are in Portuguese; the assistant answers in your language.
