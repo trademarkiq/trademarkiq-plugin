@@ -22,7 +22,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Contencioso em todo o Judiciário**: processos de marcas nos 6 TRFs e nos TJs de praticamente todos os estados, além dos tribunais superiores, com estatísticas por tribunal, e a jurisprudência (acórdãos) do STJ e do STF.
 - **Patentes e desenhos industriais**: busca, ficha completa, reivindicações e a carteira de qualquer titular, no Brasil e no exterior.
 - **Sua carteira, inteira**: na conta de Empresa ou de escritório, representantes, clientes, histórico, financeiro, desenhos, contratos, software, conflitos, ameaças, cobertura internacional e processos judiciais, cada um com a sua franquia por plano. Cada conta vê só o que lhe está atribuído.
-- **Somente leitura**: as 60 ferramentas apenas consultam.
+- **Somente leitura**: as 61 ferramentas apenas consultam.
 
 ### O que dá para perguntar
 
@@ -42,7 +42,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Sua conta:** `minha_conta` (plano, ferramentas disponíveis e consultas restantes hoje, no seu idioma)
 - **Logotipo para relatórios:** `logo_trademarkiq` (logotipo oficial do TrademarkIQ, versões para fundo claro, fundo escuro e ícone)
 - **Guia de relatório:** `guia_de_relatorio` (como montar o diagnóstico de marca para cliente ou o estudo de mercado: perguntas, ferramentas, formato e regras)
-- **Busca e registro:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`
+- **Busca e registro:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`, `manual_e_legislacao`
 - **Desenhos industriais:** `buscar_desenhos`, `detalhes_desenho`, `desenhos_titular`
 - **Patentes:** `buscar_patentes`, `detalhes_patente`, `texto_patente`, `patentes_empresa`, `buscar_patentes_internacional`, `patente_internacional` (internacionais no plano Enterprise)
 - **Risco e viabilidade:** `analisar_colidencia`, `diagnostico_viabilidade`
@@ -73,7 +73,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Litigation across the whole judiciary**: trademark lawsuits from all six federal regional courts (TRFs) and the state courts of justice (TJs) of practically every state, plus the superior courts, with statistics by court, and the case law (rulings) of the STJ and STF.
 - **Patents and industrial designs**: search, full record, claims and the portfolio of any holder, in Brazil and abroad.
 - **Your whole portfolio**: on a Company or firm account, representatives, clients, history, financial, designs, contracts, software, conflicts, threats, international coverage and court cases, each with its own daily allowance per plan. Each account sees only what is assigned to it.
-- **Read-only**: all 60 tools only query data.
+- **Read-only**: all 61 tools only query data.
 
 ### What you can ask
 
@@ -93,7 +93,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Your account:** `minha_conta` (plan, available tools and calls left today, in your language)
 - **Logo for reports:** `logo_trademarkiq` (official TrademarkIQ logo, light-background, dark-background and icon versions)
 - **Report guide:** `guia_de_relatorio` (how to build the trademark diagnosis for a client or the market study: questions, tools, layout and rules)
-- **Search and registration:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`
+- **Search and registration:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`, `manual_e_legislacao`
 - **Industrial designs:** `buscar_desenhos`, `detalhes_desenho`, `desenhos_titular`
 - **Patents:** `buscar_patentes`, `detalhes_patente`, `texto_patente`, `patentes_empresa`, `buscar_patentes_internacional`, `patente_internacional` (international ones on the Enterprise plan)
 - **Risk and viability:** `analisar_colidencia`, `diagnostico_viabilidade`
