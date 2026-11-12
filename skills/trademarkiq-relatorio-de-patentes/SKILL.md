@@ -25,6 +25,8 @@ Levantamento de uma tecnologia:
 
 Desenhos industriais ligados ao produto: `buscar_desenhos`, `detalhes_desenho`, `desenhos_titular`. Litígios: `buscar_processos_pi`.
 
+Fundamento: antes de explicar uma etapa, um prazo ou uma medida (pedido de exame, exigência, anuidade, restauração, recurso, nulidade), chame `manual_e_legislacao` com `materia` = `patentes` (ou `desenhos`, para desenho industrial) e palavras-chave curtas ("exame técnico", "anuidade", "restauração", "quinquênio"), ou com o número do artigo. Escreva o prazo e a regra como vêm no trecho devolvido e cite o item do manual do INPI, com a edição, e o artigo da Lei 9.279/1996. Não afirme prazo, valor, requisito ou número de artigo de memória.
+
 ## 3. Formato (PDF, 3 páginas)
 
 Página 1, retrato: abertura com o título como conclusão ("<Empresa> tem N patentes em vigor e M pedidos em exame; K concentram-se em <área>."); quatro números (em vigor, em exame, arquivadas ou extintas, famílias no exterior); gráfico de depósitos por ano; gráfico de barras por área técnica.
@@ -47,7 +49,7 @@ Visual: páginas de 828 x 1170 px; fundo #f4f5f8; cartões brancos com borda #e1
 8. Patente arquivada, extinta ou indeferida é uma situação publicada pelo INPI; não conclua que a tecnologia é livre para uso. Membro de família na Europa ou em outro país é um pedido lá, não proteção em vigor.
 9. Levantamento de tecnologia não é busca exaustiva nem parecer de patenteabilidade ou de liberdade de operação: o relatório diz quais termos foram buscados e que a conclusão cabe a um especialista em patentes.
 10. Descreva o alcance com as palavras das reivindicações; não amplie nem interprete além do texto.
-11. Esta skill não fundamenta procedimento de patentes no Manual de Marcas: prazos e etapas de patentes só entram se uma ferramenta os trouxer.
+11. Prazos e etapas só entram no relatório com a base devolvida por `manual_e_legislacao`. O manual disponível é o Manual Básico de Patentes do INPI: para pontos que ele não cobre (diretrizes de exame por área técnica, por exemplo), diga que não está disponível.
 
 ## 5. Construção
 
