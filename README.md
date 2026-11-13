@@ -23,7 +23,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Patentes e desenhos industriais**: busca, ficha completa, reivindicações e a carteira de qualquer titular, no Brasil e no exterior.
 - **Sua carteira, inteira**: na conta de Empresa ou de escritório, representantes, clientes, histórico, financeiro, desenhos, contratos, software, conflitos, ameaças, cobertura internacional e processos judiciais, cada um com a sua franquia por plano. Cada conta vê só o que lhe está atribuído.
 - **Registro guiado no TradeLink**: conduz o pedido de marca de um cliente etapa por etapa (dados, classes, anterioridade, viabilidade e relatório) e devolve o link do portal, o PIN, o link de verificação e o QR; o caso fica gravado no seu TradeLink.
-- **Leitura por padrão**: das 62 ferramentas, 61 apenas consultam; só o registro guiado grava, e apenas casos no TradeLink da sua conta, a seu pedido.
+- **Leitura por padrão**: das 62 ferramentas, 61 apenas consultam; só o registro guiado grava, e apenas casos no TradeLink da sua conta, a seu pedido; se você pedir, ele também envia ao seu cliente o e-mail com o link do portal e o PIN.
 
 ### O que dá para perguntar
 
@@ -76,7 +76,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Patents and industrial designs**: search, full record, claims and the portfolio of any holder, in Brazil and abroad.
 - **Your whole portfolio**: on a Company or firm account, representatives, clients, history, financial, designs, contracts, software, conflicts, threats, international coverage and court cases, each with its own daily allowance per plan. Each account sees only what is assigned to it.
 - **Guided filing in TradeLink**: runs a client's trademark filing step by step (applicant data, classes, prior trademarks, viability and report) and returns the client portal link, the PIN, the verification link and the QR code; the case is saved in your TradeLink.
-- **Read by default**: of the 62 tools, 61 only query data; only the guided filing writes, and only cases in your own TradeLink, at your request.
+- **Read by default**: of the 62 tools, 61 only query data; only the guided filing writes, and only cases in your own TradeLink, at your request; if you ask, it also e-mails your client the portal link and the PIN.
 
 ### What you can ask
 
@@ -162,7 +162,7 @@ A pasta `skills/` traz dez skills prontas, com o logotipo oficial em `assets/`:
 - `trademarkiq-painel-do-escritorio`: painel de gestão do escritório (negócio no CRM e carteira no INPI).
 - `trademarkiq-relatorio-de-patentes`: relatório de patentes de uma empresa ou de uma tecnologia.
 - `trademarkiq-orientacao-de-processo`: onde o processo está, o que o despacho significa, o prazo e os caminhos, com base no Manual de Marcas do INPI e na Lei 9.279/1996.
-- `trademarkiq-registro-guiado`: conduz o registro guiado de marca no TradeLink, etapa por etapa, até o relatório com link de verificação e QR.
+- `trademarkiq-registro-guiado`: conduz o registro guiado de marca no TradeLink, etapa por etapa, até o relatório, e entrega o link do portal do cliente, o PIN e o QR para compartilhar.
 
 Em assistentes que aceitam skills (por exemplo o Claude), instale a pasta da skill ou o respectivo ZIP. Nos demais, o conector entrega o mesmo conteúdo pela ferramenta `guia_de_relatorio` e o logotipo por `logo_trademarkiq`.
 
