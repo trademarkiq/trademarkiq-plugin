@@ -22,7 +22,8 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Contencioso em todo o Judiciário**: processos de marcas nos 6 TRFs e nos TJs de praticamente todos os estados, além dos tribunais superiores, com estatísticas por tribunal, e a jurisprudência (acórdãos) do STJ e do STF.
 - **Patentes e desenhos industriais**: busca, ficha completa, reivindicações e a carteira de qualquer titular, no Brasil e no exterior.
 - **Sua carteira, inteira**: na conta de Empresa ou de escritório, representantes, clientes, histórico, financeiro, desenhos, contratos, software, conflitos, ameaças, cobertura internacional e processos judiciais, cada um com a sua franquia por plano. Cada conta vê só o que lhe está atribuído.
-- **Somente leitura**: as 61 ferramentas apenas consultam.
+- **Registro guiado no TradeLink**: conduz o pedido de marca de um cliente etapa por etapa (dados, classes, anterioridade, viabilidade e relatório) e devolve o link do portal, o PIN, o link de verificação e o QR; o caso fica gravado no seu TradeLink.
+- **Leitura por padrão**: das 62 ferramentas, 61 apenas consultam; só o registro guiado grava, e apenas casos no TradeLink da sua conta, a seu pedido.
 
 ### O que dá para perguntar
 
@@ -42,6 +43,7 @@ O [TrademarkIQ](https://trademarkiq.com.br) reúne a base completa do INPI, atua
 - **Sua conta:** `minha_conta` (plano, ferramentas disponíveis e consultas restantes hoje, no seu idioma)
 - **Logotipo para relatórios:** `logo_trademarkiq` (logotipo oficial do TrademarkIQ, versões para fundo claro, fundo escuro e ícone)
 - **Guia de relatório:** `guia_de_relatorio` (como montar o diagnóstico de marca para cliente ou o estudo de mercado: perguntas, ferramentas, formato e regras)
+- **Registro guiado (TradeLink):** `tradelink_registro_guiado` (abre e conduz o caso no seu TradeLink; requer TradeLink no plano)
 - **Busca e registro:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`, `manual_e_legislacao`
 - **Desenhos industriais:** `buscar_desenhos`, `detalhes_desenho`, `desenhos_titular`
 - **Patentes:** `buscar_patentes`, `detalhes_patente`, `texto_patente`, `patentes_empresa`, `buscar_patentes_internacional`, `patente_internacional` (internacionais no plano Enterprise)
@@ -73,7 +75,8 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Litigation across the whole judiciary**: trademark lawsuits from all six federal regional courts (TRFs) and the state courts of justice (TJs) of practically every state, plus the superior courts, with statistics by court, and the case law (rulings) of the STJ and STF.
 - **Patents and industrial designs**: search, full record, claims and the portfolio of any holder, in Brazil and abroad.
 - **Your whole portfolio**: on a Company or firm account, representatives, clients, history, financial, designs, contracts, software, conflicts, threats, international coverage and court cases, each with its own daily allowance per plan. Each account sees only what is assigned to it.
-- **Read-only**: all 61 tools only query data.
+- **Guided filing in TradeLink**: runs a client's trademark filing step by step (applicant data, classes, prior trademarks, viability and report) and returns the client portal link, the PIN, the verification link and the QR code; the case is saved in your TradeLink.
+- **Read by default**: of the 62 tools, 61 only query data; only the guided filing writes, and only cases in your own TradeLink, at your request.
 
 ### What you can ask
 
@@ -93,6 +96,7 @@ As análises são de risco, com base em dados públicos, e não constituem parec
 - **Your account:** `minha_conta` (plan, available tools and calls left today, in your language)
 - **Logo for reports:** `logo_trademarkiq` (official TrademarkIQ logo, light-background, dark-background and icon versions)
 - **Report guide:** `guia_de_relatorio` (how to build the trademark diagnosis for a client or the market study: questions, tools, layout and rules)
+- **Guided filing (TradeLink):** `tradelink_registro_guiado` (opens and runs the case in your TradeLink; requires TradeLink in the plan)
 - **Search and registration:** `buscar_marcas`, `detalhes_marca`, `obter_logo`, `classificar_atividade`, `classes_de_nice`, `presenca_digital`, `manual_e_legislacao`
 - **Industrial designs:** `buscar_desenhos`, `detalhes_desenho`, `desenhos_titular`
 - **Patents:** `buscar_patentes`, `detalhes_patente`, `texto_patente`, `patentes_empresa`, `buscar_patentes_internacional`, `patente_internacional` (international ones on the Enterprise plan)
@@ -147,7 +151,7 @@ The files in this repository (manifests, configuration and documentation) are di
 
 ## Skills de relatório / Report skills
 
-A pasta `skills/` traz nove skills prontas, com o logotipo oficial em `assets/`:
+A pasta `skills/` traz dez skills prontas, com o logotipo oficial em `assets/`:
 
 - `trademarkiq-diagnostico-de-marca`: relatório de diagnóstico de viabilidade de uma marca para cliente, no Brasil ou noutro país (PDF de 3 páginas).
 - `trademarkiq-estudo-de-mercado`: estudo de mercado de marcas em uma página (país, setor, classe, América Latina, escritórios).
@@ -158,7 +162,8 @@ A pasta `skills/` traz nove skills prontas, com o logotipo oficial em `assets/`:
 - `trademarkiq-painel-do-escritorio`: painel de gestão do escritório (negócio no CRM e carteira no INPI).
 - `trademarkiq-relatorio-de-patentes`: relatório de patentes de uma empresa ou de uma tecnologia.
 - `trademarkiq-orientacao-de-processo`: onde o processo está, o que o despacho significa, o prazo e os caminhos, com base no Manual de Marcas do INPI e na Lei 9.279/1996.
+- `trademarkiq-registro-guiado`: conduz o registro guiado de marca no TradeLink, etapa por etapa, até o relatório com link de verificação e QR.
 
 Em assistentes que aceitam skills (por exemplo o Claude), instale a pasta da skill ou o respectivo ZIP. Nos demais, o conector entrega o mesmo conteúdo pela ferramenta `guia_de_relatorio` e o logotipo por `logo_trademarkiq`.
 
-The `skills/` folder ships nine ready-made skills, with the official logo in `assets/`: trademark viability diagnosis, market study, portfolio report, RPI bulletin, holder dossier, comparative analysis of two trademarks, IP firm dashboard, patent report, and case guidance grounded in the INPI Trademark Manual and Lei 9.279/1996. In assistants that support skills (Claude, for example), install the skill folder or its ZIP. Elsewhere, the connector serves the same content through the `guia_de_relatorio` tool and the logo through `logo_trademarkiq`.
+The `skills/` folder ships ten ready-made skills, with the official logo in `assets/`: guided trademark filing in TradeLink, trademark viability diagnosis, market study, portfolio report, RPI bulletin, holder dossier, comparative analysis of two trademarks, IP firm dashboard, patent report, and case guidance grounded in the INPI Trademark Manual and Lei 9.279/1996. In assistants that support skills (Claude, for example), install the skill folder or its ZIP. Elsewhere, the connector serves the same content through the `guia_de_relatorio` tool and the logo through `logo_trademarkiq`.
